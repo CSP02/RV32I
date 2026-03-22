@@ -20,7 +20,7 @@ module Processor_tb;
         #5 rst = 0;
         
         // Run the simulation for a few cycles
-        #100;
+        #150;
         // End simulation
         $finish;
     end
